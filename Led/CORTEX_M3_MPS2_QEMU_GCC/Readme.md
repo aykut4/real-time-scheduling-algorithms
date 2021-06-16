@@ -13,9 +13,9 @@ $ git clone https://github.com/FreeRTOS/FreeRTOS.git --recurse-submodules --dept
 ```
 The previous command should create a directory named **FreeRTOS**
 
-## Blinky Demo
-### How to build blinky demo
-Navigate with the command line to FreeRTOS/Demo/CORTEX\_M3\_MPS2\_QEMU\_GCC
+## Blinky Led
+### How to build blinky led
+Navigate with the command line to FreeRTOS/Led/CORTEX\_M3\_MPS2\_QEMU\_GCC
 For a release build run:
 
 ```
@@ -29,13 +29,13 @@ For a versions with debugging symbols and no optimizations **-O0**, run:
 $ make DEBUG=1
 ```
 
-### How to run the blinky demo
+### How to run the blinky led
 run:
 ```
 $ make run
 ```
-### Blinky Demo Expectations
-after running the blinky demo you shoud see on the screen the word blinking
+### Blinky Led Expectations
+after running the blinky led you shoud see on the screen the word blinking
 printed continuously
 
 
