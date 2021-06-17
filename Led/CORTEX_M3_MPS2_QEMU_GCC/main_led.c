@@ -28,6 +28,7 @@
 #include <task.h>
 #include <queue.h>
 #include <stdio.h>
+#include "led.h"
 
 static void prvQueueReceiveTask( void *pvParameters );
 static void prvQueueSendTask( void *pvParameters );
@@ -44,23 +45,44 @@ void main_led( void )
     /* Create the queue. */
     xQueue = xQueueCreate( mainQUEUE_LENGTH, sizeof( uint32_t ) );
 
+    LED_t led1;
+    LED_t led2;
+
+    led1.ledName = "led1";
+    led1.ledTaskPriority = tskIDLE_PRIORITY + 2;
+    led1.ledQueue = xQueue;
+    led1.ledStackSize = configMINIMAL_STACK_SIZE;
+    led1.ledState = LED_OFF;
+    led1.ledParameters = &led1;
+
+    led2.ledName = "led2";
+    led2.ledTaskPriority =tskIDLE_PRIORITY + 1;
+    led2.ledQueue = xQueue;
+    led2.ledStackSize = configMINIMAL_STACK_SIZE;
+    led2.ledState = LED_OFF;
+    led2.ledParameters = &led2;
+
     if( xQueue != NULL )
     {
+
+        ledTaskCreate(&led1);
+        ledTaskCreate(&led2);
+
         /* Start the two tasks as described in the comments at the top of this
         file. */
-        xTaskCreate( prvQueueReceiveTask,            /* The function that implements the task. */
-                    "Rx",                            /* The text name assigned to the task - for debug only as it is not used by the kernel. */
-                    configMINIMAL_STACK_SIZE,        /* The size of the stack to allocate to the task. */
-                    NULL,                            /* The parameter passed to the task - not used in this case. */
-                    mainQUEUE_RECEIVE_TASK_PRIORITY, /* The priority assigned to the task. */
-                    NULL );                          /* The task handle is not required, so NULL is passed. */
+        //xTaskCreate( prvQueueReceiveTask,            /* The function that implements the task. */
+        //            "Rx",                            /* The text name assigned to the task - for debug only as it is not used by the kernel. */
+        //            configMINIMAL_STACK_SIZE,        /* The size of the stack to allocate to the task. */
+        //            NULL,                            /* The parameter passed to the task - not used in this case. */
+        //            mainQUEUE_RECEIVE_TASK_PRIORITY, /* The priority assigned to the task. */
+        //            NULL );                          /* The task handle is not required, so NULL is passed. */
 
-        xTaskCreate( prvQueueSendTask,
-                    "TX",
-                    configMINIMAL_STACK_SIZE,
-                    NULL,
-                    mainQUEUE_SEND_TASK_PRIORITY,
-                    NULL );
+        //xTaskCreate( prvQueueSendTask,
+        //            "TX",
+        //            configMINIMAL_STACK_SIZE,
+        //            NULL,
+        //            mainQUEUE_SEND_TASK_PRIORITY,
+        //            NULL );
 
         /* Start the tasks and timer running. */
         vTaskStartScheduler();
