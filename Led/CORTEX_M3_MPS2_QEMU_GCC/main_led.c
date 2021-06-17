@@ -33,10 +33,21 @@
 static void prvQueueReceiveTask( void *pvParameters );
 static void prvQueueSendTask( void *pvParameters );
 
+
+//static LED_t* ledInit(  const char *name,
+//                        QueueHandle_t queue,
+//                        uint32_t taskPriority,
+//                        uint32_t stackSize );
+//static void ledReceiveToggle( void *params );
+//static void ledPrint( void *params );
+//static void ledTaskCreate(LED_t *led);
+
 #define mainQUEUE_RECEIVE_TASK_PRIORITY     ( tskIDLE_PRIORITY + 2 )
 #define mainQUEUE_SEND_TASK_PRIORITY        ( tskIDLE_PRIORITY + 1 )
-#define mainQUEUE_LENGTH                    ( 1 )
+#define mainQUEUE_LENGTH                    ( 10 )
 #define mainQUEUE_SEND_FREQUENCY_MS         ( 500 / portTICK_PERIOD_MS )
+//#define LED_ON 1
+//#define LED_OFF 0
 /* The queue used by both tasks. */
 static QueueHandle_t xQueue = NULL;
 
@@ -45,44 +56,21 @@ void main_led( void )
     /* Create the queue. */
     xQueue = xQueueCreate( mainQUEUE_LENGTH, sizeof( uint32_t ) );
 
-    LED_t led1;
-    LED_t led2;
-
-    led1.ledName = "led1";
-    led1.ledTaskPriority = tskIDLE_PRIORITY + 2;
-    led1.ledQueue = xQueue;
-    led1.ledStackSize = configMINIMAL_STACK_SIZE;
-    led1.ledState = LED_OFF;
-    led1.ledParameters = &led1;
-
-    led2.ledName = "led2";
-    led2.ledTaskPriority =tskIDLE_PRIORITY + 1;
-    led2.ledQueue = xQueue;
-    led2.ledStackSize = configMINIMAL_STACK_SIZE;
-    led2.ledState = LED_OFF;
-    led2.ledParameters = &led2;
+    LED_t *led1 = ledInit("led1", xQueue, tskIDLE_PRIORITY + 2, configMINIMAL_STACK_SIZE);
+    LED_t *led2 = ledInit("led2", xQueue, tskIDLE_PRIORITY + 1, configMINIMAL_STACK_SIZE);
 
     if( xQueue != NULL )
     {
 
-        ledTaskCreate(&led1);
-        ledTaskCreate(&led2);
+        ledTaskCreate(led1);
+        ledTaskCreate(led2);
 
-        /* Start the two tasks as described in the comments at the top of this
-        file. */
-        //xTaskCreate( prvQueueReceiveTask,            /* The function that implements the task. */
-        //            "Rx",                            /* The text name assigned to the task - for debug only as it is not used by the kernel. */
-        //            configMINIMAL_STACK_SIZE,        /* The size of the stack to allocate to the task. */
-        //            NULL,                            /* The parameter passed to the task - not used in this case. */
-        //            mainQUEUE_RECEIVE_TASK_PRIORITY, /* The priority assigned to the task. */
-        //            NULL );                          /* The task handle is not required, so NULL is passed. */
-
-        //xTaskCreate( prvQueueSendTask,
-        //            "TX",
-        //            configMINIMAL_STACK_SIZE,
-        //            NULL,
-        //            mainQUEUE_SEND_TASK_PRIORITY,
-        //            NULL );
+        xTaskCreate( prvQueueSendTask,
+                    "TX",
+                    configMINIMAL_STACK_SIZE,
+                    NULL,
+                    mainQUEUE_SEND_TASK_PRIORITY,
+                    NULL );
 
         /* Start the tasks and timer running. */
         vTaskStartScheduler();
@@ -110,7 +98,6 @@ const uint32_t ulValueToSend = 100UL;
 
     for( ;; )
     {
-        printf("%s\n","blinking2");
         /* Place this task in the blocked state until it is time to run again. */
         vTaskDelayUntil( &xNextWakeTime, mainQUEUE_SEND_FREQUENCY_MS );
 
