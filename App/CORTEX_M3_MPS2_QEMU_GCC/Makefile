@@ -1,5 +1,5 @@
 CC = arm-none-eabi-gcc
-BIN := RTOSLed.axf
+BIN := RTOSApp.axf
 
 BUILD_DIR := build
 
@@ -10,7 +10,7 @@ KERNEL_DIR := $(FREERTOS_DIR)/Source
 FREERTOS_PLUS_DIR_REL := ../../../FreeRTOS-Plus
 FREERTOS_PLUS_DIR := $(abspath $(FREERTOS_PLUS_DIR_REL))
 
-SOURCE_FILES += init/startup.c  syscall.c main.c led.c
+SOURCE_FILES += init/startup.c  syscall.c main.c scheduler.c
 SOURCE_FILES += $(KERNEL_DIR)/portable/GCC/ARM_CM3/port.c
 SOURCE_FILES += $(KERNEL_DIR)/tasks.c
 SOURCE_FILES += $(KERNEL_DIR)/list.c
@@ -19,20 +19,20 @@ SOURCE_FILES += $(KERNEL_DIR)/timers.c
 SOURCE_FILES += $(KERNEL_DIR)/event_groups.c
 SOURCE_FILES += ${KERNEL_DIR}/portable/MemMang/heap_3.c
 
-INCLUDE_DIRS += -I$(FREERTOS_DIR)/Led/CORTEX_M3_MPS2_QEMU_GCC
-INCLUDE_DIRS += -I$(FREERTOS_DIR)/Led/CORTEX_M3_MPS2_QEMU_GCC/CMSIS
+INCLUDE_DIRS += -I$(FREERTOS_DIR)/App/CORTEX_M3_MPS2_QEMU_GCC
+INCLUDE_DIRS += -I$(FREERTOS_DIR)/App/CORTEX_M3_MPS2_QEMU_GCC/CMSIS
 INCLUDE_DIRS += -I$(KERNEL_DIR)/include
 INCLUDE_DIRS += -I$(KERNEL_DIR)/portable/GCC/ARM_CM3
 
-SOURCE_FILES += main_led.c
-CFLAGS := -DmainCREATE_SIMPLE_LED=1
+SOURCE_FILES += main_app.c
+#CFLAGS := -DmainCREATE_SIMPLE_LED=1
 
 DEFINES := -DprojCOVERAGE_TEST -DQEMU_SOC_MPS2 -DHEAP3
 
 LDFLAGS = -T ./scripts/mps2_m3.ld -specs=nano.specs --specs=rdimon.specs -lc -lrdimon
 LDFLAGS += -Xlinker -Map=${BUILD_DIR}/output.map
 
-CFLAGS += -nostartfiles -mthumb -mcpu=cortex-m3 -Wno-error=implicit-function-declaration
+CFLAGS := -nostartfiles -mthumb -mcpu=cortex-m3 -Wno-error=implicit-function-declaration
 CFLAGS += -Wno-builtin-declaration-mismatch -Werror
 
 ifeq ($(DEBUG), 1)

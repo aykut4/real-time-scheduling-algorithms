@@ -37,21 +37,13 @@ void vApplicationStackOverflowHook( TaskHandle_t pxTask, char *pcTaskName );
 void vApplicationMallocFailedHook( void );
 void vApplicationIdleHook( void );
 void vApplicationTickHook( void );
-void main_led( void );
+void main_app( void );
 
 extern void initialise_monitor_handles(void);
 
 int main ()
 {
-#if (mainCREATE_SIMPLE_LED == 1)
-    {
-    main_led();
-    }
-#else
-    {
-    #error "Invalid Selection...\nPlease Select a Demo application from the main command"
-    }
-#endif
+    main_app();
     return 0;
 }
 
