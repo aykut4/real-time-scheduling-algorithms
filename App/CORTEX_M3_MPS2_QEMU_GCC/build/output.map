@@ -11,29 +11,19 @@ Archive member included to satisfy reference by file (symbol)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o) (_malloc_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
-                              build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/tasks.o (printf)
-/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-puts.o)
-                              build/main_app.o (puts)
+                              build/main_app.o (printf)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
                               build/main.o (vprintf)
-/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
-                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-puts.o) (__swbuf_r)
-/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
-                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-puts.o) (__swsetup_r)
-/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
-                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o) (_fflush_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o) (__sinit)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o) (_fwalk)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
-                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o) (_global_impure_ptr)
+                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o) (_global_impure_ptr)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
-/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
-                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
@@ -44,18 +34,22 @@ Archive member included to satisfy reference by file (symbol)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o) (errno)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o) (__sread)
+/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
+                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o) (_write_r)
+/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
+                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o) (_close_r)
-/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
-                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o) (_fflush_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
-/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
-                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o) (_isatty_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o) (_lseek_r)
+/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
+                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o) (memchr)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
@@ -64,6 +58,10 @@ Archive member included to satisfy reference by file (symbol)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o) (_realloc_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o) (_read_r)
+/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
+                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+/home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
+                              /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o) (_isatty_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
                               /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
@@ -122,7 +120,7 @@ END GROUP
                 0x0000000000000000                isr_vector
                 0x0000000000000078                . = ALIGN (0x4)
 
-.text           0x0000000000000080     0x4908
+.text           0x0000000000000080     0x51cc
                 0x0000000000000080                . = ALIGN (0x4)
  *(.text*)
  .text          0x0000000000000080       0xdc build/init/startup.o
@@ -150,478 +148,478 @@ END GROUP
                 0x0000000000000210                vLoggingPrintf
  .text.startup  0x000000000000022c        0xc build/main.o
                 0x000000000000022c                main
- .text          0x0000000000000238        0x0 build/scheduler.o
- *fill*         0x0000000000000238        0x8 
- .text          0x0000000000000240      0x2a0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
-                0x0000000000000294                pxPortInitialiseStack
-                0x00000000000002b8                vPortSVCHandler
-                0x00000000000002e4                vPortEndScheduler
-                0x00000000000002f8                vPortEnterCritical
-                0x000000000000032c                vPortExitCritical
-                0x000000000000034c                xPortPendSVHandler
-                0x0000000000000394                xPortSysTickHandler
-                0x00000000000003c0                vPortSetupTimerInterrupt
-                0x00000000000003d8                xPortStartScheduler
-                0x000000000000049c                vPortValidateInterruptPriority
- .text          0x00000000000004e0     0x10ac build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/tasks.o
-                0x0000000000000604                xTaskCreate
-                0x00000000000007e0                vTaskStartScheduler
-                0x0000000000000970                vTaskEndScheduler
-                0x0000000000000990                vTaskSuspendAll
-                0x00000000000009a4                xTaskResumeAll
-                0x0000000000000ac0                xTaskDelayUntil
-                0x0000000000000b44                vTaskDelay
-                0x0000000000000bc8                xTaskGetTickCount
-                0x0000000000000bd4                xTaskGetTickCountFromISR
-                0x0000000000000be4                uxTaskGetNumberOfTasks
-                0x0000000000000bf0                pcTaskGetName
-                0x0000000000000c14                xTaskCatchUpTicks
-                0x0000000000000c48                xTaskIncrementTick
-                0x0000000000000c64                vTaskSwitchContext
-                0x0000000000000cc8                vTaskPlaceOnEventList
-                0x0000000000000d34                vTaskPlaceOnUnorderedEventList
-                0x0000000000000db0                xTaskRemoveFromEventList
-                0x0000000000000e1c                vTaskRemoveFromUnorderedEventList
-                0x0000000000000e90                vTaskSetTimeOutState
-                0x0000000000000eb8                vTaskInternalSetTimeOutState
-                0x0000000000000ec8                xTaskCheckForTimeOut
-                0x0000000000000f28                vTaskMissedYield
-                0x0000000000000f38                xTaskGetCurrentTaskHandle
-                0x0000000000000f44                xTaskPriorityInherit
-                0x0000000000000fd4                xTaskPriorityDisinherit
-                0x0000000000001054                vTaskPriorityDisinheritAfterTimeout
-                0x00000000000010f4                uxTaskResetEventItemValue
-                0x000000000000110c                pvTaskIncrementMutexHeldCount
-                0x0000000000001124                ulTaskGenericNotifyTake
-                0x00000000000011b0                xTaskGenericNotifyWait
-                0x0000000000001260                xTaskGenericNotify
-                0x0000000000001344                xTaskGenericNotifyFromISR
-                0x0000000000001458                vTaskGenericNotifyGiveFromISR
-                0x0000000000001520                xTaskGenericNotifyStateClear
-                0x000000000000155c                ulTaskGenericNotifyValueClear
- .text          0x000000000000158c       0x90 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/list.o
-                0x000000000000158c                vListInitialise
-                0x00000000000015a4                vListInitialiseItem
-                0x00000000000015ac                vListInsertEnd
-                0x00000000000015c8                vListInsert
-                0x00000000000015f8                uxListRemove
- .text          0x000000000000161c     0x1268 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/queue.o
-                0x000000000000161c                xQueueGenericReset
-                0x00000000000016a4                xQueueGenericCreate
-                0x0000000000001750                xQueueCreateCountingSemaphore
-                0x00000000000017c4                xQueueGenericSend
-                0x0000000000001b4c                xQueueCreateMutex
-                0x0000000000001bb4                xQueueGiveMutexRecursive
-                0x0000000000001be8                xQueueGenericSendFromISR
-                0x0000000000001d3c                xQueueGiveFromISR
-                0x0000000000001de0                xQueueReceive
-                0x00000000000020a0                xQueueSemaphoreTake
-                0x00000000000023b8                xQueueTakeMutexRecursive
-                0x00000000000023ec                xQueuePeek
-                0x00000000000026ac                xQueueReceiveFromISR
-                0x0000000000002764                xQueuePeekFromISR
-                0x00000000000027d0                uxQueueMessagesWaiting
-                0x00000000000027f8                uxQueueSpacesAvailable
-                0x0000000000002818                uxQueueMessagesWaitingFromISR
-                0x000000000000282c                vQueueDelete
-                0x0000000000002848                xQueueIsQueueEmptyFromISR
-                0x0000000000002868                xQueueIsQueueFullFromISR
- .text          0x0000000000002884        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/timers.o
- .text          0x0000000000002884      0x328 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/event_groups.o
-                0x0000000000002884                xEventGroupCreate
-                0x00000000000028a0                xEventGroupWaitBits
-                0x00000000000029a0                xEventGroupClearBits
-                0x00000000000029d0                xEventGroupGetBitsFromISR
-                0x00000000000029ec                xEventGroupSetBits
-                0x0000000000002a68                xEventGroupSync
-                0x0000000000002b24                vEventGroupDelete
-                0x0000000000002b78                vEventGroupSetBitsCallback
-                0x0000000000002b7c                vEventGroupClearBitsCallback
- .text          0x0000000000002bac       0x3c build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/MemMang/heap_3.o
-                0x0000000000002bac                pvPortMalloc
-                0x0000000000002bcc                vPortFree
- .text          0x0000000000002be8       0x84 build/main_app.o
-                0x0000000000002c24                main_app
- .text          0x0000000000002c6c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o)
- .text.malloc   0x0000000000002c6c       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o)
-                0x0000000000002c6c                malloc
- .text.free     0x0000000000002c7c       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o)
-                0x0000000000002c7c                free
- .text          0x0000000000002c8c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
- .text.memcpy   0x0000000000002c8c       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
-                0x0000000000002c8c                memcpy
- .text          0x0000000000002ca8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
- .text.memset   0x0000000000002ca8       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
-                0x0000000000002ca8                memset
- .text          0x0000000000002cb8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
- .text._free_r  0x0000000000002cb8       0x90 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
-                0x0000000000002cb8                _free_r
- .text          0x0000000000002d48        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000238      0x774 build/scheduler.o
+                0x0000000000000290                vSchedulerPeriodicTaskCreate
+                0x00000000000003a4                vSchedulerPeriodicTaskDelete
+                0x00000000000008fc                vSchedulerInit
+                0x000000000000092c                vSchedulerStart
+ *fill*         0x00000000000009ac        0x4 
+ .text          0x00000000000009b0      0x2a0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+                0x0000000000000a04                pxPortInitialiseStack
+                0x0000000000000a28                vPortSVCHandler
+                0x0000000000000a54                vPortEndScheduler
+                0x0000000000000a68                vPortEnterCritical
+                0x0000000000000a9c                vPortExitCritical
+                0x0000000000000abc                xPortPendSVHandler
+                0x0000000000000b04                xPortSysTickHandler
+                0x0000000000000b30                vPortSetupTimerInterrupt
+                0x0000000000000b48                xPortStartScheduler
+                0x0000000000000c0c                vPortValidateInterruptPriority
+ .text          0x0000000000000c50     0x1220 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/tasks.o
+                0x0000000000000db0                xTaskCreate
+                0x0000000000000f94                vTaskDelete
+                0x0000000000001060                vTaskStartScheduler
+                0x00000000000011e8                vTaskEndScheduler
+                0x0000000000001208                vTaskSuspendAll
+                0x000000000000121c                xTaskResumeAll
+                0x0000000000001334                xTaskDelayUntil
+                0x00000000000013b8                vTaskDelay
+                0x000000000000143c                xTaskGetTickCount
+                0x0000000000001448                xTaskGetTickCountFromISR
+                0x0000000000001458                uxTaskGetNumberOfTasks
+                0x0000000000001464                pcTaskGetName
+                0x0000000000001488                xTaskCatchUpTicks
+                0x00000000000014bc                xTaskIncrementTick
+                0x00000000000014d8                vTaskSwitchContext
+                0x000000000000153c                vTaskPlaceOnEventList
+                0x00000000000015a8                vTaskPlaceOnUnorderedEventList
+                0x0000000000001624                xTaskRemoveFromEventList
+                0x0000000000001690                vTaskRemoveFromUnorderedEventList
+                0x0000000000001704                vTaskSetTimeOutState
+                0x000000000000172c                vTaskInternalSetTimeOutState
+                0x000000000000173c                xTaskCheckForTimeOut
+                0x000000000000179c                vTaskMissedYield
+                0x00000000000017ac                vTaskSetThreadLocalStoragePointer
+                0x00000000000017e4                pvTaskGetThreadLocalStoragePointer
+                0x0000000000001808                xTaskGetCurrentTaskHandle
+                0x0000000000001814                xTaskPriorityInherit
+                0x00000000000018a4                xTaskPriorityDisinherit
+                0x0000000000001924                vTaskPriorityDisinheritAfterTimeout
+                0x00000000000019c4                uxTaskResetEventItemValue
+                0x00000000000019dc                pvTaskIncrementMutexHeldCount
+                0x00000000000019f4                ulTaskGenericNotifyTake
+                0x0000000000001a8c                xTaskGenericNotifyWait
+                0x0000000000001b3c                xTaskGenericNotify
+                0x0000000000001c24                xTaskGenericNotifyFromISR
+                0x0000000000001d3c                vTaskGenericNotifyGiveFromISR
+                0x0000000000001e04                xTaskGenericNotifyStateClear
+                0x0000000000001e40                ulTaskGenericNotifyValueClear
+ .text          0x0000000000001e70       0x90 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/list.o
+                0x0000000000001e70                vListInitialise
+                0x0000000000001e88                vListInitialiseItem
+                0x0000000000001e90                vListInsertEnd
+                0x0000000000001eac                vListInsert
+                0x0000000000001edc                uxListRemove
+ .text          0x0000000000001f00     0x1268 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/queue.o
+                0x0000000000001f00                xQueueGenericReset
+                0x0000000000001f88                xQueueGenericCreate
+                0x0000000000002034                xQueueCreateCountingSemaphore
+                0x00000000000020a8                xQueueGenericSend
+                0x0000000000002430                xQueueCreateMutex
+                0x0000000000002498                xQueueGiveMutexRecursive
+                0x00000000000024cc                xQueueGenericSendFromISR
+                0x0000000000002620                xQueueGiveFromISR
+                0x00000000000026c4                xQueueReceive
+                0x0000000000002984                xQueueSemaphoreTake
+                0x0000000000002c9c                xQueueTakeMutexRecursive
+                0x0000000000002cd0                xQueuePeek
+                0x0000000000002f90                xQueueReceiveFromISR
+                0x0000000000003048                xQueuePeekFromISR
+                0x00000000000030b4                uxQueueMessagesWaiting
+                0x00000000000030dc                uxQueueSpacesAvailable
+                0x00000000000030fc                uxQueueMessagesWaitingFromISR
+                0x0000000000003110                vQueueDelete
+                0x000000000000312c                xQueueIsQueueEmptyFromISR
+                0x000000000000314c                xQueueIsQueueFullFromISR
+ .text          0x0000000000003168        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/timers.o
+ .text          0x0000000000003168      0x328 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/event_groups.o
+                0x0000000000003168                xEventGroupCreate
+                0x0000000000003184                xEventGroupWaitBits
+                0x0000000000003284                xEventGroupClearBits
+                0x00000000000032b4                xEventGroupGetBitsFromISR
+                0x00000000000032d0                xEventGroupSetBits
+                0x000000000000334c                xEventGroupSync
+                0x0000000000003408                vEventGroupDelete
+                0x000000000000345c                vEventGroupSetBitsCallback
+                0x0000000000003460                vEventGroupClearBitsCallback
+ .text          0x0000000000003490       0x3c build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/MemMang/heap_3.o
+                0x0000000000003490                pvPortMalloc
+                0x00000000000034b0                vPortFree
+ .text          0x00000000000034cc      0x130 build/main_app.o
+                0x0000000000003518                main_app
+ .text          0x00000000000035fc        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o)
+ .text.malloc   0x00000000000035fc       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o)
+                0x00000000000035fc                malloc
+ .text.free     0x000000000000360c       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o)
+                0x000000000000360c                free
+ .text          0x000000000000361c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x000000000000361c       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+                0x000000000000361c                memcpy
+ .text          0x0000000000003638        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000003638       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+                0x0000000000003638                memset
+ .text          0x0000000000003648        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x0000000000003648       0x90 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+                0x0000000000003648                _free_r
+ .text          0x00000000000036d8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
  .text._malloc_r
-                0x0000000000002d48       0xb4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
-                0x0000000000002d48                _malloc_r
- .text          0x0000000000002dfc        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
+                0x00000000000036d8       0xb4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000000000036d8                _malloc_r
+ .text          0x000000000000378c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
  .text._printf_r
-                0x0000000000002dfc       0x28 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
-                0x0000000000002dfc                _printf_r
-                0x0000000000002dfc                _iprintf_r
- .text.printf   0x0000000000002e24       0x30 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
-                0x0000000000002e24                printf
-                0x0000000000002e24                iprintf
- .text          0x0000000000002e54        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-puts.o)
- .text._puts_r  0x0000000000002e54       0xdc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-puts.o)
-                0x0000000000002e54                _puts_r
- .text.puts     0x0000000000002f30       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-puts.o)
-                0x0000000000002f30                puts
- .text          0x0000000000002f40        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
- .text._sbrk_r  0x0000000000002f40       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
-                0x0000000000002f40                _sbrk_r
- .text          0x0000000000002f60        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
- .text.vprintf  0x0000000000002f60       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
-                0x0000000000002f60                vprintf
-                0x0000000000002f60                viprintf
+                0x000000000000378c       0x28 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
+                0x000000000000378c                _printf_r
+                0x000000000000378c                _iprintf_r
+ .text.printf   0x00000000000037b4       0x30 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
+                0x00000000000037b4                printf
+                0x00000000000037b4                iprintf
+ .text          0x00000000000037e4        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000000037e4       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+                0x00000000000037e4                _sbrk_r
+ .text          0x0000000000003804        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
+ .text.vprintf  0x0000000000003804       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
+                0x0000000000003804                vprintf
+                0x0000000000003804                viprintf
  .text._vprintf_r
-                0x0000000000002f8c       0x22 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
-                0x0000000000002f8c                _viprintf_r
-                0x0000000000002f8c                _vprintf_r
- .text          0x0000000000002fae        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
- *fill*         0x0000000000002fae        0x2 
- .text.__swbuf_r
-                0x0000000000002fb0       0xa4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
-                0x0000000000002fb0                __swbuf_r
- .text.__swbuf  0x0000000000003054       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
-                0x0000000000003054                __swbuf
- .text          0x0000000000003064        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
- .text.__swsetup_r
-                0x0000000000003064       0xdc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
-                0x0000000000003064                __swsetup_r
- .text          0x0000000000003140        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
- .text.__sflush_r
-                0x0000000000003140      0x104 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
-                0x0000000000003140                __sflush_r
- .text._fflush_r
-                0x0000000000003244       0x78 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
-                0x0000000000003244                _fflush_r
- .text.fflush   0x00000000000032bc       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
-                0x00000000000032bc                fflush
- .text          0x00000000000032e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
- .text.std      0x00000000000032e0       0x48 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000003830       0x22 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
+                0x0000000000003830                _viprintf_r
+                0x0000000000003830                _vprintf_r
+ .text          0x0000000000003852        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ *fill*         0x0000000000003852        0x2 
+ .text.std      0x0000000000003854       0x48 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
  .text._cleanup_r
-                0x0000000000003328        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x0000000000003328                _cleanup_r
+                0x000000000000389c        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x000000000000389c                _cleanup_r
  .text.__fp_lock
-                0x0000000000003334       0x18 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x00000000000038a8       0x18 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
  .text.__fp_unlock
-                0x000000000000334c       0x18 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x00000000000038c0       0x18 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
  .text.__sfmoreglue
-                0x0000000000003364       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x0000000000003364                __sfmoreglue
+                0x00000000000038d8       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x00000000000038d8                __sfmoreglue
  .text._cleanup
-                0x0000000000003390        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x0000000000003390                _cleanup
+                0x0000000000003904        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000003904                _cleanup
  .text.__sfp_lock_acquire
-                0x000000000000339c        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x000000000000339c                __sfp_lock_acquire
+                0x0000000000003910        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000003910                __sfp_lock_acquire
  .text.__sfp_lock_release
-                0x00000000000033a8        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x00000000000033a8                __sfp_lock_release
+                0x000000000000391c        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x000000000000391c                __sfp_lock_release
  .text.__sinit_lock_acquire
-                0x00000000000033b4        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x00000000000033b4                __sinit_lock_acquire
+                0x0000000000003928        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000003928                __sinit_lock_acquire
  .text.__sinit_lock_release
-                0x00000000000033c0        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x00000000000033c0                __sinit_lock_release
- .text.__sinit  0x00000000000033cc       0x70 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x00000000000033cc                __sinit
- .text.__sfp    0x000000000000343c       0x8c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x000000000000343c                __sfp
+                0x0000000000003934        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000003934                __sinit_lock_release
+ .text.__sinit  0x0000000000003940       0x70 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000003940                __sinit
+ .text.__sfp    0x00000000000039b0       0x8c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x00000000000039b0                __sfp
  .text.__fp_lock_all
-                0x00000000000034c8       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x00000000000034c8                __fp_lock_all
+                0x0000000000003a3c       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000003a3c                __fp_lock_all
  .text.__fp_unlock_all
-                0x00000000000034e4       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x00000000000034e4                __fp_unlock_all
- .text          0x0000000000003500        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
- .text._fwalk   0x0000000000003500       0x3a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
-                0x0000000000003500                _fwalk
+                0x0000000000003a58       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000003a58                __fp_unlock_all
+ .text          0x0000000000003a74        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000003a74       0x3a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+                0x0000000000003a74                _fwalk
  .text._fwalk_reent
-                0x000000000000353a       0x3e /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
-                0x000000000000353a                _fwalk_reent
- .text          0x0000000000003578        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
- .text          0x0000000000003578        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000000003aae       0x3e /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+                0x0000000000003aae                _fwalk_reent
+ .text          0x0000000000003aec        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000003aec        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
  .text.__retarget_lock_init
-                0x0000000000003578        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x0000000000003578                __retarget_lock_init
+                0x0000000000003aec        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000000003aec                __retarget_lock_init
  .text.__retarget_lock_init_recursive
-                0x000000000000357a        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x000000000000357a                __retarget_lock_init_recursive
+                0x0000000000003aee        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000000003aee                __retarget_lock_init_recursive
  .text.__retarget_lock_close
-                0x000000000000357c        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x000000000000357c                __retarget_lock_close
+                0x0000000000003af0        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000000003af0                __retarget_lock_close
  .text.__retarget_lock_close_recursive
-                0x000000000000357e        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x000000000000357e                __retarget_lock_close_recursive
+                0x0000000000003af2        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000000003af2                __retarget_lock_close_recursive
  .text.__retarget_lock_acquire
-                0x0000000000003580        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x0000000000003580                __retarget_lock_acquire
+                0x0000000000003af4        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000000003af4                __retarget_lock_acquire
  .text.__retarget_lock_acquire_recursive
-                0x0000000000003582        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x0000000000003582                __retarget_lock_acquire_recursive
+                0x0000000000003af6        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000000003af6                __retarget_lock_acquire_recursive
  .text.__retarget_lock_try_acquire
-                0x0000000000003584        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x0000000000003584                __retarget_lock_try_acquire
+                0x0000000000003af8        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000000003af8                __retarget_lock_try_acquire
  .text.__retarget_lock_try_acquire_recursive
-                0x0000000000003588        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x0000000000003588                __retarget_lock_try_acquire_recursive
+                0x0000000000003afc        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000000003afc                __retarget_lock_try_acquire_recursive
  .text.__retarget_lock_release
-                0x000000000000358c        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x000000000000358c                __retarget_lock_release
+                0x0000000000003b00        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000000003b00                __retarget_lock_release
  .text.__retarget_lock_release_recursive
-                0x000000000000358e        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x000000000000358e                __retarget_lock_release_recursive
- .text          0x0000000000003590        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
- .text.__swhatbuf_r
-                0x0000000000003590       0x4a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
-                0x0000000000003590                __swhatbuf_r
- *fill*         0x00000000000035da        0x2 
- .text.__smakebuf_r
-                0x00000000000035dc       0x80 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
-                0x00000000000035dc                __smakebuf_r
- .text          0x000000000000365c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+                0x0000000000003b02        0x2 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000000003b02                __retarget_lock_release_recursive
+ .text          0x0000000000003b04        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
  .text.__malloc_lock
-                0x000000000000365c        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
-                0x000000000000365c                __malloc_lock
+                0x0000000000003b04        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+                0x0000000000003b04                __malloc_lock
  .text.__malloc_unlock
-                0x0000000000003668        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
-                0x0000000000003668                __malloc_unlock
- .text          0x0000000000003674        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000000003b10        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+                0x0000000000003b10                __malloc_unlock
+ .text          0x0000000000003b1c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
  .text.__sfputc_r
-                0x0000000000003674       0x2a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000000003b1c       0x2a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
  .text.__sfputs_r
-                0x000000000000369e       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
-                0x000000000000369e                __sfputs_r
+                0x0000000000003b46       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000000003b46                __sfputs_r
  .text.__sprint_r
-                0x00000000000036c2       0x1a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
-                0x00000000000036c2                __sprint_r
+                0x0000000000003b6a       0x1a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000000003b6a                __sprint_r
  .text._vfprintf_r
-                0x00000000000036dc      0x260 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
-                0x00000000000036dc                _vfiprintf_r
-                0x00000000000036dc                _vfprintf_r
+                0x0000000000003b84      0x260 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000000003b84                _vfiprintf_r
+                0x0000000000003b84                _vfprintf_r
  .text.vfprintf
-                0x000000000000393c       0x14 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
-                0x000000000000393c                vfiprintf
-                0x000000000000393c                vfprintf
- .text          0x0000000000003950        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000003de4       0x14 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000000003de4                vfiprintf
+                0x0000000000003de4                vfprintf
+ .text          0x0000000000003df8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
  .text._printf_common
-                0x0000000000003950       0xde /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
-                0x0000000000003950                _printf_common
- *fill*         0x0000000000003a2e        0x2 
+                0x0000000000003df8       0xde /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000003df8                _printf_common
+ *fill*         0x0000000000003ed6        0x2 
  .text._printf_i
-                0x0000000000003a30      0x24c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
-                0x0000000000003a30                _printf_i
- .text          0x0000000000003c7c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+                0x0000000000003ed8      0x24c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000003ed8                _printf_i
+ .text          0x0000000000004124        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
  .text.cleanup_glue
-                0x0000000000003c7c       0x1a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
-                0x0000000000003c7c                cleanup_glue
- *fill*         0x0000000000003c96        0x2 
+                0x0000000000004124       0x1a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+                0x0000000000004124                cleanup_glue
+ *fill*         0x000000000000413e        0x2 
  .text._reclaim_reent
-                0x0000000000003c98       0xb8 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
-                0x0000000000003c98                _reclaim_reent
- .text          0x0000000000003d50        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
- .text.__sread  0x0000000000003d50       0x22 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
-                0x0000000000003d50                __sread
+                0x0000000000004140       0xb8 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+                0x0000000000004140                _reclaim_reent
+ .text          0x00000000000041f8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+ .text.__sread  0x00000000000041f8       0x22 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+                0x00000000000041f8                __sread
  .text.__seofread
-                0x0000000000003d72        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
-                0x0000000000003d72                __seofread
+                0x000000000000421a        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+                0x000000000000421a                __seofread
  .text.__swrite
-                0x0000000000003d76       0x38 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
-                0x0000000000003d76                __swrite
- .text.__sseek  0x0000000000003dae       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
-                0x0000000000003dae                __sseek
+                0x000000000000421e       0x38 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+                0x000000000000421e                __swrite
+ .text.__sseek  0x0000000000004256       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+                0x0000000000004256                __sseek
  .text.__sclose
-                0x0000000000003dd2        0x8 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
-                0x0000000000003dd2                __sclose
- .text          0x0000000000003dda        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
- *fill*         0x0000000000003dda        0x2 
+                0x000000000000427a        0x8 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+                0x000000000000427a                __sclose
+ .text          0x0000000000004282        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
+ *fill*         0x0000000000004282        0x2 
+ .text.__swbuf_r
+                0x0000000000004284       0xa4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
+                0x0000000000004284                __swbuf_r
+ .text.__swbuf  0x0000000000004328       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
+                0x0000000000004328                __swbuf
+ .text          0x0000000000004338        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
  .text._write_r
-                0x0000000000003ddc       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
-                0x0000000000003ddc                _write_r
- .text          0x0000000000003e00        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+                0x0000000000004338       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+                0x0000000000004338                _write_r
+ .text          0x000000000000435c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
+ .text.__swsetup_r
+                0x000000000000435c       0xdc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
+                0x000000000000435c                __swsetup_r
+ .text          0x0000000000004438        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
  .text._close_r
-                0x0000000000003e00       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
-                0x0000000000003e00                _close_r
- .text          0x0000000000003e20        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
- .text._fstat_r
-                0x0000000000003e20       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
-                0x0000000000003e20                _fstat_r
- .text          0x0000000000003e44        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
+                0x0000000000004438       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+                0x0000000000004438                _close_r
+ .text          0x0000000000004458        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x0000000000004458      0x104 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+                0x0000000000004458                __sflush_r
+ .text._fflush_r
+                0x000000000000455c       0x78 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+                0x000000000000455c                _fflush_r
+ .text.fflush   0x00000000000045d4       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+                0x00000000000045d4                fflush
+ .text          0x00000000000045f8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
  .text.__sfvwrite_r
-                0x0000000000003e44      0x290 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
-                0x0000000000003e44                __sfvwrite_r
- .text          0x00000000000040d4        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
- .text._isatty_r
-                0x00000000000040d4       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
-                0x00000000000040d4                _isatty_r
- .text          0x00000000000040f4        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+                0x00000000000045f8      0x290 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
+                0x00000000000045f8                __sfvwrite_r
+ .text          0x0000000000004888        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
  .text._lseek_r
-                0x00000000000040f4       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
-                0x00000000000040f4                _lseek_r
- .text          0x0000000000004118        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
- .text.memchr   0x0000000000004118       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
-                0x0000000000004118                memchr
- .text          0x0000000000004134        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
- .text.memmove  0x0000000000004134       0x34 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
-                0x0000000000004134                memmove
- .text          0x0000000000004168        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o)
+                0x0000000000004888       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+                0x0000000000004888                _lseek_r
+ .text          0x00000000000048ac        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x00000000000048ac       0x4a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
+                0x00000000000048ac                __swhatbuf_r
+ *fill*         0x00000000000048f6        0x2 
+ .text.__smakebuf_r
+                0x00000000000048f8       0x80 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
+                0x00000000000048f8                __smakebuf_r
+ .text          0x0000000000004978        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
+ .text.memchr   0x0000000000004978       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
+                0x0000000000004978                memchr
+ .text          0x0000000000004994        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000004994       0x34 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
+                0x0000000000004994                memmove
+ .text          0x00000000000049c8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o)
  .text._realloc_r
-                0x0000000000004168       0x4c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o)
-                0x0000000000004168                _realloc_r
- .text          0x00000000000041b4        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
- .text._read_r  0x00000000000041b4       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
-                0x00000000000041b4                _read_r
- .text          0x00000000000041d8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
+                0x00000000000049c8       0x4c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o)
+                0x00000000000049c8                _realloc_r
+ .text          0x0000000000004a14        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+ .text._read_r  0x0000000000004a14       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+                0x0000000000004a14                _read_r
+ .text          0x0000000000004a38        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x0000000000004a38       0x24 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
+                0x0000000000004a38                _fstat_r
+ .text          0x0000000000004a5c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x0000000000004a5c       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
+                0x0000000000004a5c                _isatty_r
+ .text          0x0000000000004a7c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
  .text._malloc_usable_size_r
-                0x00000000000041d8       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
-                0x00000000000041d8                _malloc_usable_size_r
- .text          0x00000000000041e8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004a7c       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
+                0x0000000000004a7c                _malloc_usable_size_r
+ .text          0x0000000000004a8c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .text.findslot
-                0x00000000000041e8       0x34 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
- .text.error    0x000000000000421c       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004a8c       0x34 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text.error    0x0000000000004ac0       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .text.checkerror
-                0x0000000000004238        0xa /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004adc        0xa /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .text._swiread
-                0x0000000000004242       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004242                _swiread
- .text._read    0x0000000000004262       0x34 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004ae6       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004ae6                _swiread
+ .text._read    0x0000000000004b06       0x34 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .text._swilseek
-                0x0000000000004296       0x78 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004296                _swilseek
- .text._lseek   0x000000000000430e        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x000000000000430e                _lseek
+                0x0000000000004b3a       0x78 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004b3a                _swilseek
+ .text._lseek   0x0000000000004bb2        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004bb2                _lseek
  .text._swiwrite
-                0x0000000000004312       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004312                _swiwrite
- .text._write   0x0000000000004332       0x40 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004bb6       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004bb6                _swiwrite
+ .text._write   0x0000000000004bd6       0x40 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .text._swiclose
-                0x0000000000004372       0x1a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004372                _swiclose
- .text._close   0x000000000000438c       0x4c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x000000000000438c                _close
- .text._getpid  0x00000000000043d8        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x00000000000043d8                _getpid
- .text._sbrk    0x00000000000043dc       0x48 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004c16       0x1a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004c16                _swiclose
+ .text._close   0x0000000000004c30       0x4c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004c30                _close
+ .text._getpid  0x0000000000004c7c        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004c7c                _getpid
+ .text._sbrk    0x0000000000004c80       0x48 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .text._swistat
-                0x0000000000004424       0x42 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004424                _swistat
- .text._fstat   0x0000000000004466       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
- .text._stat    0x0000000000004482       0x3a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004482                _stat
+                0x0000000000004cc8       0x42 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004cc8                _swistat
+ .text._fstat   0x0000000000004d0a       0x1c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .text._stat    0x0000000000004d26       0x3a /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004d26                _stat
  .text._swiopen
-                0x00000000000044bc       0xb4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x00000000000044bc                _swiopen
- .text._open    0x0000000000004570       0x12 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004570                _open
- *fill*         0x0000000000004582        0x2 
+                0x0000000000004d60       0xb4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004d60                _swiopen
+ .text._open    0x0000000000004e14       0x12 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004e14                _open
+ *fill*         0x0000000000004e26        0x2 
  .text._get_semihosting_exts
-                0x0000000000004584       0xb8 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004584                _get_semihosting_exts
+                0x0000000000004e28       0xb8 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004e28                _get_semihosting_exts
  .text.initialise_semihosting_exts
-                0x000000000000463c       0x34 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004ee0       0x34 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .text._has_ext_exit_extended
-                0x0000000000004670       0x18 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004670                _has_ext_exit_extended
+                0x0000000000004f14       0x18 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004f14                _has_ext_exit_extended
  .text._has_ext_stdout_stderr
-                0x0000000000004688       0x18 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004688                _has_ext_stdout_stderr
+                0x0000000000004f2c       0x18 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004f2c                _has_ext_stdout_stderr
  .text.initialise_monitor_handles
-                0x00000000000046a0       0xc0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x00000000000046a0                initialise_monitor_handles
- .text._link    0x0000000000004760       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004760                _link
- .text._unlink  0x0000000000004770       0x28 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004770                _unlink
+                0x0000000000004f44       0xc0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000004f44                initialise_monitor_handles
+ .text._link    0x0000000000005004       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000005004                _link
+ .text._unlink  0x0000000000005014       0x28 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000005014                _unlink
  .text._gettimeofday
-                0x0000000000004798       0x28 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004798                _gettimeofday
- .text._clock   0x00000000000047c0       0x12 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x00000000000047c0                _clock
- .text._times   0x00000000000047d2       0x16 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x00000000000047d2                _times
- .text._isatty  0x00000000000047e8       0x38 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x00000000000047e8                _isatty
- .text._system  0x0000000000004820       0x3c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004820                _system
- .text._rename  0x000000000000485c       0x36 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x000000000000485c                _rename
- .text          0x0000000000004892        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
- *fill*         0x0000000000004892        0x2 
- .text.__errno  0x0000000000004894        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
-                0x0000000000004894                __errno
- .text          0x00000000000048a0       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-strlen.o)
-                0x00000000000048a0                strlen
+                0x000000000000503c       0x28 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x000000000000503c                _gettimeofday
+ .text._clock   0x0000000000005064       0x12 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000005064                _clock
+ .text._times   0x0000000000005076       0x16 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000005076                _times
+ .text._isatty  0x000000000000508c       0x38 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x000000000000508c                _isatty
+ .text._system  0x00000000000050c4       0x3c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000000050c4                _system
+ .text._rename  0x0000000000005100       0x36 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000000005100                _rename
+ .text          0x0000000000005136        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
+ *fill*         0x0000000000005136        0x2 
+ .text.__errno  0x0000000000005138        0xc /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
+                0x0000000000005138                __errno
+ .text          0x0000000000005144       0x10 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-strlen.o)
+                0x0000000000005144                strlen
  *(.init)
  *(.fini)
  *(.eh_frame)
  *(.rodata*)
  .rodata.str1.4
-                0x00000000000048b0        0x4 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/tasks.o
- .rodata.str1.4
-                0x00000000000048b4       0x1f build/main_app.o
- *fill*         0x00000000000048d3        0x1 
+                0x0000000000005154       0x43 build/main_app.o
+ *fill*         0x0000000000005197        0x1 
  .rodata.__sf_fake_stderr
-                0x00000000000048d4       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x00000000000048d4                __sf_fake_stderr
+                0x0000000000005198       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x0000000000005198                __sf_fake_stderr
  .rodata.__sf_fake_stdin
-                0x00000000000048f4       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x00000000000048f4                __sf_fake_stdin
+                0x00000000000051b8       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x00000000000051b8                __sf_fake_stdin
  .rodata.__sf_fake_stdout
-                0x0000000000004914       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
-                0x0000000000004914                __sf_fake_stdout
+                0x00000000000051d8       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x00000000000051d8                __sf_fake_stdout
  .rodata._global_impure_ptr
-                0x0000000000004934        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
-                0x0000000000004934                _global_impure_ptr
+                0x00000000000051f8        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+                0x00000000000051f8                _global_impure_ptr
  .rodata._vfprintf_r.str1.1
-                0x0000000000004938       0x11 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000000051fc       0x11 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
  .rodata._printf_i.str1.1
-                0x0000000000004949       0x22 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x000000000000520d       0x22 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
  .rodata._get_semihosting_exts.str1.1
-                0x000000000000496b       0x16 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x000000000000522f       0x16 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .rodata.initialise_monitor_handles.str1.1
-                0x0000000000004981        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
-                0x0000000000004988                . = ALIGN (0x4)
- *fill*         0x0000000000004985        0x3 
-                0x0000000000004988                _etext = .
-                0x0000000000004988                _sidata = _etext
+                0x0000000000005245        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x000000000000524c                . = ALIGN (0x4)
+ *fill*         0x0000000000005249        0x3 
+                0x000000000000524c                _etext = .
+                0x000000000000524c                _sidata = _etext
 
-.glue_7         0x0000000000004988        0x0
- .glue_7        0x0000000000004988        0x0 linker stubs
+.glue_7         0x000000000000524c        0x0
+ .glue_7        0x000000000000524c        0x0 linker stubs
 
-.glue_7t        0x0000000000004988        0x0
- .glue_7t       0x0000000000004988        0x0 linker stubs
+.glue_7t        0x000000000000524c        0x0
+ .glue_7t       0x000000000000524c        0x0 linker stubs
 
-.vfp11_veneer   0x0000000000004988        0x0
- .vfp11_veneer  0x0000000000004988        0x0 linker stubs
+.vfp11_veneer   0x000000000000524c        0x0
+ .vfp11_veneer  0x000000000000524c        0x0 linker stubs
 
-.v4_bx          0x0000000000004988        0x0
- .v4_bx         0x0000000000004988        0x0 linker stubs
+.v4_bx          0x000000000000524c        0x0
+ .v4_bx         0x000000000000524c        0x0 linker stubs
 
-.iplt           0x0000000000004988        0x0
- .iplt          0x0000000000004988        0x0 build/init/startup.o
+.iplt           0x000000000000524c        0x0
+ .iplt          0x000000000000524c        0x0 build/init/startup.o
 
-.rel.dyn        0x0000000000004988        0x0
- .rel.iplt      0x0000000000004988        0x0 build/init/startup.o
+.rel.dyn        0x000000000000524c        0x0
+ .rel.iplt      0x000000000000524c        0x0 build/init/startup.o
 
-.ARM.extab      0x0000000000004988        0x0
-                0x0000000000004988                . = ALIGN (0x4)
+.ARM.extab      0x000000000000524c        0x0
+                0x000000000000524c                . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x0000000000004988                . = ALIGN (0x4)
+                0x000000000000524c                . = ALIGN (0x4)
 
-.ARM            0x0000000000004988        0x0
-                0x0000000000004988                . = ALIGN (0x4)
-                0x0000000000004988                __exidx_start = .
+.ARM            0x000000000000524c        0x0
+                0x000000000000524c                . = ALIGN (0x4)
+                0x000000000000524c                __exidx_start = .
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
-                0x0000000000004988                __exidx_end = .
-                0x0000000000004988                . = ALIGN (0x4)
+                0x000000000000524c                __exidx_end = .
+                0x000000000000524c                . = ALIGN (0x4)
 
 .interrupts_ram
                 0x0000000020000000      0x100
@@ -633,7 +631,7 @@ END GROUP
                 0x0000000020000100                . = ALIGN (0x4)
                 0x0000000020000100                __interrupts_ram_end = .
 
-.data           0x0000000020000100       0x78 load address 0x0000000000004988
+.data           0x0000000020000100       0x78 load address 0x000000000000524c
                 0x0000000020000100                . = ALIGN (0x4)
                 0x0000000020000100                _sdata = .
  *(.data*)
@@ -656,12 +654,8 @@ END GROUP
  .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
  .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
  .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
- .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-puts.o)
  .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
  .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
- .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
- .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
- .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
  .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
  .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
  .data          0x0000000020000108        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
@@ -671,22 +665,25 @@ END GROUP
  .data.impure_data
                 0x000000002000010c       0x60 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
- .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+ .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+ .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
- .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
+ .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
- .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+ .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+ .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
+ .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
  .data          0x000000002000016c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .data.__heap_limit
@@ -701,10 +698,10 @@ END GROUP
                 0x0000000020000178                . = ALIGN (0x4)
                 0x0000000020000178                _edata = .
 
-.igot.plt       0x0000000020000178        0x0 load address 0x0000000000004a00
+.igot.plt       0x0000000020000178        0x0 load address 0x00000000000052c4
  .igot.plt      0x0000000020000178        0x0 build/init/startup.o
 
-.uninitialized  0x0000000020000178        0x8 load address 0x0000000000004a00
+.uninitialized  0x0000000020000178        0x8 load address 0x00000000000052c4
                 0x0000000020000180                . = ALIGN (0x20)
  *fill*         0x0000000020000178        0x8 
                 0x0000000020000180                __uninitialized_start = .
@@ -713,7 +710,7 @@ END GROUP
                 0x0000000020000180                . = ALIGN (0x20)
                 0x0000000020000180                __uninitialized_end = .
 
-.bss            0x0000000020000180      0x210 load address 0x0000000000004a00
+.bss            0x0000000020000180      0x4c4 load address 0x00000000000052c4
                 0x0000000020000180                . = ALIGN (0x4)
                 0x0000000020000180                _sbss = .
                 0x0000000020000180                __bss_start__ = _sbss
@@ -721,114 +718,118 @@ END GROUP
  .bss           0x0000000020000180        0x0 build/init/startup.o
  .bss           0x0000000020000180        0x4 build/syscall.o
  .bss           0x0000000020000184        0x0 build/main.o
- .bss           0x0000000020000184        0x0 build/scheduler.o
- .bss           0x0000000020000184        0x8 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
- .bss           0x000000002000018c      0x13c build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/tasks.o
-                0x0000000020000190                pxCurrentTCB
- .bss           0x00000000200002c8        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/list.o
- .bss           0x00000000200002c8        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/queue.o
- .bss           0x00000000200002c8        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/timers.o
- .bss           0x00000000200002c8        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/event_groups.o
- .bss           0x00000000200002c8        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/MemMang/heap_3.o
- .bss           0x00000000200002c8        0x0 build/main_app.o
- .bss           0x00000000200002c8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o)
- .bss           0x00000000200002c8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
- .bss           0x00000000200002c8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
- .bss           0x00000000200002c8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
- .bss           0x00000000200002c8        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000020000184      0x28c build/scheduler.o
+ .bss           0x0000000020000410        0x8 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .bss           0x0000000020000418      0x154 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/tasks.o
+                0x0000000020000438                pxCurrentTCB
+ .bss           0x000000002000056c        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/list.o
+ .bss           0x000000002000056c        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/queue.o
+ .bss           0x000000002000056c        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/timers.o
+ .bss           0x000000002000056c        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/event_groups.o
+ .bss           0x000000002000056c        0x0 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/MemMang/heap_3.o
+ .bss           0x000000002000056c       0x10 build/main_app.o
+                0x000000002000056c                xHandle1
+                0x0000000020000570                xHandle2
+                0x0000000020000574                xHandle3
+                0x0000000020000578                xHandle4
+ .bss           0x000000002000057c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o)
+ .bss           0x000000002000057c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x000000002000057c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+ .bss           0x000000002000057c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x000000002000057c        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
  .bss.__malloc_free_list
-                0x00000000200002c8        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
-                0x00000000200002c8                __malloc_free_list
+                0x000000002000057c        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                0x000000002000057c                __malloc_free_list
  .bss.__malloc_sbrk_start
-                0x00000000200002cc        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
-                0x00000000200002cc                __malloc_sbrk_start
- .bss           0x00000000200002d0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
- .bss           0x00000000200002d0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-puts.o)
- .bss           0x00000000200002d0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
- .bss           0x00000000200002d0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
- .bss           0x00000000200002d0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
- .bss           0x00000000200002d0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
- .bss           0x00000000200002d0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
- .bss           0x00000000200002d0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
- .bss           0x00000000200002d0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
- .bss           0x00000000200002d0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
- .bss           0x00000000200002d0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000020000580        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020000580                __malloc_sbrk_start
+ .bss           0x0000000020000584        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
+ .bss           0x0000000020000584        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000020000584        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
+ .bss           0x0000000020000584        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .bss           0x0000000020000584        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000020000584        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000020000584        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
  .bss.__lock___arc4random_mutex
-                0x00000000200002d0        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x00000000200002d0                __lock___arc4random_mutex
+                0x0000000020000584        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000020000584                __lock___arc4random_mutex
  .bss.__lock___at_quick_exit_mutex
-                0x00000000200002d1        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x00000000200002d1                __lock___at_quick_exit_mutex
+                0x0000000020000585        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000020000585                __lock___at_quick_exit_mutex
  .bss.__lock___atexit_recursive_mutex
-                0x00000000200002d2        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x00000000200002d2                __lock___atexit_recursive_mutex
+                0x0000000020000586        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000020000586                __lock___atexit_recursive_mutex
  .bss.__lock___dd_hash_mutex
-                0x00000000200002d3        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x00000000200002d3                __lock___dd_hash_mutex
+                0x0000000020000587        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000020000587                __lock___dd_hash_mutex
  .bss.__lock___env_recursive_mutex
-                0x00000000200002d4        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x00000000200002d4                __lock___env_recursive_mutex
+                0x0000000020000588        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000020000588                __lock___env_recursive_mutex
  .bss.__lock___malloc_recursive_mutex
-                0x00000000200002d5        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x00000000200002d5                __lock___malloc_recursive_mutex
+                0x0000000020000589        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x0000000020000589                __lock___malloc_recursive_mutex
  .bss.__lock___sfp_recursive_mutex
-                0x00000000200002d6        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x00000000200002d6                __lock___sfp_recursive_mutex
+                0x000000002000058a        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x000000002000058a                __lock___sfp_recursive_mutex
  .bss.__lock___sinit_recursive_mutex
-                0x00000000200002d7        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x00000000200002d7                __lock___sinit_recursive_mutex
+                0x000000002000058b        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x000000002000058b                __lock___sinit_recursive_mutex
  .bss.__lock___tz_mutex
-                0x00000000200002d8        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
-                0x00000000200002d8                __lock___tz_mutex
- .bss           0x00000000200002d9        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
- .bss           0x00000000200002d9        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
- .bss           0x00000000200002d9        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
- .bss           0x00000000200002d9        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
- .bss           0x00000000200002d9        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
- *fill*         0x00000000200002d9        0x3 
- .bss.errno     0x00000000200002dc        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
-                0x00000000200002dc                errno
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
- .bss           0x00000000200002e0        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x000000002000058c        0x1 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x000000002000058c                __lock___tz_mutex
+ .bss           0x000000002000058d        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .bss           0x000000002000058d        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x000000002000058d        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x000000002000058d        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ *fill*         0x000000002000058d        0x3 
+ .bss.errno     0x0000000020000590        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+                0x0000000020000590                errno
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000020000594        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .bss.heap_end.0
-                0x00000000200002e0        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000020000594        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .bss.monitor_stderr
-                0x00000000200002e4        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x0000000020000598        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .bss.monitor_stdin
-                0x00000000200002e8        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x000000002000059c        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .bss.monitor_stdout
-                0x00000000200002ec        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000200005a0        0x4 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .bss.openfiles
-                0x00000000200002f0       0xa0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
- .bss           0x0000000020000390        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
- .bss           0x0000000020000390        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-strlen.o)
+                0x00000000200005a4       0xa0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .bss           0x0000000020000644        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000020000644        0x0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-strlen.o)
  *(COMMON)
-                0x0000000020000390                . = ALIGN (0x4)
-                0x0000000020000390                _ebss = .
-                0x0000000020000390                __bss_end__ = _ebss
+                0x0000000020000644                . = ALIGN (0x4)
+                0x0000000020000644                _ebss = .
+                0x0000000020000644                __bss_end__ = _ebss
 
-.heap           0x0000000020000390    0x44000 load address 0x0000000000004a00
-                0x0000000020000390                . = ALIGN (0x8)
-                0x0000000020000390                PROVIDE (end = .)
+.heap           0x0000000020000644    0x44004 load address 0x00000000000052c4
+                0x0000000020000648                . = ALIGN (0x8)
+ *fill*         0x0000000020000644        0x4 
+                0x0000000020000648                PROVIDE (end = .)
                 [!provide]                        PROVIDE (_end = .)
-                0x0000000020000390                _heap_bottom = .
-                0x0000000020040390                . = (. + _Min_Heap_Size)
- *fill*         0x0000000020000390    0x40000 
-                0x0000000020040390                _heap_top = .
-                0x0000000020044390                . = (. + _Min_Stack_Size)
- *fill*         0x0000000020040390     0x4000 
-                0x0000000020044390                . = ALIGN (0x8)
+                0x0000000020000648                _heap_bottom = .
+                0x0000000020040648                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000648    0x40000 
+                0x0000000020040648                _heap_top = .
+                0x0000000020044648                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020040648     0x4000 
+                0x0000000020044648                . = ALIGN (0x8)
                 0x0000000020400000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
                 0x00000000203fc000                __StackLimit = (__StackTop - _Min_Stack_Size)
                 [!provide]                        PROVIDE (__stack = __StackTop)
@@ -860,128 +861,125 @@ LOAD linker stubs
  .ARM.attributes
                 0x000000000000005a       0x2d build/main.o
  .ARM.attributes
-                0x0000000000000087       0x33 build/scheduler.o
+                0x0000000000000087       0x2d build/scheduler.o
  .ARM.attributes
-                0x00000000000000ba       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+                0x00000000000000b4       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
  .ARM.attributes
-                0x00000000000000e7       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/tasks.o
+                0x00000000000000e1       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/tasks.o
  .ARM.attributes
-                0x0000000000000114       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/list.o
+                0x000000000000010e       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/list.o
  .ARM.attributes
-                0x0000000000000141       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/queue.o
+                0x000000000000013b       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/queue.o
  .ARM.attributes
-                0x000000000000016e       0x33 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/timers.o
+                0x0000000000000168       0x33 build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/timers.o
  .ARM.attributes
-                0x00000000000001a1       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/event_groups.o
+                0x000000000000019b       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/event_groups.o
  .ARM.attributes
-                0x00000000000001ce       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/MemMang/heap_3.o
+                0x00000000000001c8       0x2d build//mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/portable/MemMang/heap_3.o
  .ARM.attributes
-                0x00000000000001fb       0x2d build/main_app.o
+                0x00000000000001f5       0x2d build/main_app.o
  .ARM.attributes
-                0x0000000000000228       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o)
+                0x0000000000000222       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o)
  .ARM.attributes
-                0x0000000000000255       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
+                0x000000000000024f       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
  .ARM.attributes
-                0x0000000000000282       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
+                0x000000000000027c       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
  .ARM.attributes
-                0x00000000000002af       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
+                0x00000000000002a9       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
  .ARM.attributes
-                0x00000000000002dc       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000000000002d6       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
  .ARM.attributes
-                0x0000000000000309       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
+                0x0000000000000303       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
  .ARM.attributes
-                0x0000000000000336       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-puts.o)
+                0x0000000000000330       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
  .ARM.attributes
-                0x0000000000000363       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+                0x000000000000035d       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
  .ARM.attributes
-                0x0000000000000390       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
+                0x000000000000038a       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
  .ARM.attributes
-                0x00000000000003bd       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
+                0x00000000000003b7       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
  .ARM.attributes
-                0x00000000000003ea       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
+                0x00000000000003e4       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
  .ARM.attributes
-                0x0000000000000417       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+                0x0000000000000411       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
  .ARM.attributes
-                0x0000000000000444       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+                0x000000000000043e       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
  .ARM.attributes
-                0x0000000000000471       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+                0x000000000000046b       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
  .ARM.attributes
-                0x000000000000049e       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-impure.o)
+                0x0000000000000498       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
  .ARM.attributes
-                0x00000000000004cb       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+                0x00000000000004c5       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
  .ARM.attributes
-                0x00000000000004f8       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
+                0x00000000000004f2       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
  .ARM.attributes
-                0x0000000000000525       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+                0x000000000000051f       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
  .ARM.attributes
-                0x0000000000000552       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x000000000000054c       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
  .ARM.attributes
-                0x000000000000057f       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000000579       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
  .ARM.attributes
-                0x00000000000005ac       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+                0x00000000000005a6       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
  .ARM.attributes
-                0x00000000000005d9       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+                0x00000000000005d3       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
  .ARM.attributes
-                0x0000000000000606       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+                0x0000000000000600       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
  .ARM.attributes
-                0x0000000000000633       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+                0x000000000000062d       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
  .ARM.attributes
-                0x0000000000000660       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
+                0x000000000000065a       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
  .ARM.attributes
-                0x000000000000068d       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
+                0x0000000000000687       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
  .ARM.attributes
-                0x00000000000006ba       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
+                0x00000000000006b4       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
  .ARM.attributes
-                0x00000000000006e7       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+                0x00000000000006e1       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o)
  .ARM.attributes
-                0x0000000000000714       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
+                0x000000000000070e       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
  .ARM.attributes
-                0x0000000000000741       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
+                0x000000000000073b       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
  .ARM.attributes
-                0x000000000000076e       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o)
+                0x0000000000000768       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
  .ARM.attributes
-                0x000000000000079b       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+                0x0000000000000795       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
  .ARM.attributes
-                0x00000000000007c8       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
+                0x00000000000007c2       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
  .ARM.attributes
-                0x00000000000007f5       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+                0x00000000000007ef       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
  .ARM.attributes
-                0x0000000000000822       0x2d /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
- .ARM.attributes
-                0x000000000000084f       0x17 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-strlen.o)
+                0x000000000000081c       0x17 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-strlen.o)
 
-.debug_frame    0x0000000000000000      0xd4c
+.debug_frame    0x0000000000000000      0xd10
  .debug_frame   0x0000000000000000       0x30 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-malloc.o)
  .debug_frame   0x0000000000000030       0x28 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memcpy-stub.o)
  .debug_frame   0x0000000000000058       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memset.o)
  .debug_frame   0x0000000000000078       0x38 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-freer.o)
  .debug_frame   0x00000000000000b0       0x30 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-mallocr.o)
  .debug_frame   0x00000000000000e0       0x74 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-printf.o)
- .debug_frame   0x0000000000000154       0x3c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-puts.o)
- .debug_frame   0x0000000000000190       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
- .debug_frame   0x00000000000001bc       0x58 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
- .debug_frame   0x0000000000000214       0x40 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
- .debug_frame   0x0000000000000254       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
- .debug_frame   0x0000000000000280       0x5c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
- .debug_frame   0x00000000000002dc      0x14c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
- .debug_frame   0x0000000000000428       0x54 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
- .debug_frame   0x000000000000047c       0xb0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
- .debug_frame   0x000000000000052c       0x58 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
- .debug_frame   0x0000000000000584       0x30 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
- .debug_frame   0x00000000000005b4       0xac /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
- .debug_frame   0x0000000000000660       0x60 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_frame   0x00000000000006c0       0x5c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
- .debug_frame   0x000000000000071c       0x88 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
- .debug_frame   0x00000000000007a4       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
- .debug_frame   0x00000000000007d0       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
- .debug_frame   0x00000000000007fc       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
- .debug_frame   0x0000000000000828       0x3c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
- .debug_frame   0x0000000000000864       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
- .debug_frame   0x0000000000000890       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
- .debug_frame   0x00000000000008bc       0x28 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
- .debug_frame   0x00000000000008e4       0x28 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
- .debug_frame   0x000000000000090c       0x3c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o)
- .debug_frame   0x0000000000000948       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
- .debug_frame   0x0000000000000974       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
- .debug_frame   0x0000000000000994      0x398 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
- .debug_frame   0x0000000000000d2c       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000154       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000180       0x58 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-vprintf.o)
+ .debug_frame   0x00000000000001d8      0x14c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000000324       0x54 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000378       0xb0 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000428       0x30 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000458       0xac /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x0000000000000504       0x60 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000000000000564       0x5c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000000000005c0       0x88 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000648       0x40 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000000688       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x00000000000006b4       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x00000000000006e0       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x000000000000070c       0x5c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000768       0x3c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x00000000000007a4       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x00000000000007d0       0x58 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000000828       0x28 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x0000000000000850       0x28 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000878       0x3c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00000000000008b4       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x00000000000008e0       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x000000000000090c       0x2c /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000000938       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000000958      0x398 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/librdimon_nano.a(rdimon-syscalls.o)
+ .debug_frame   0x0000000000000cf0       0x20 /home/sahinayk/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a(lib_a-errno.o)

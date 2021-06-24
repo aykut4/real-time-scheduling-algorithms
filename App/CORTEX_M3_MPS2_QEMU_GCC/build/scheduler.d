@@ -12,4 +12,5 @@ build/scheduler.o: scheduler.c scheduler.h \
  /mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/include/task.h \
  /mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/include/semphr.h \
  /mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/include/queue.h \
- /mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/include/timers.h
+ /mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/include/timers.h \
+ /mnt/c/Users/aykut/Downloads/FreeRTOSv202104.00/FreeRTOS/Source/include/list.h
