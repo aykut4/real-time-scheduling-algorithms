@@ -17,7 +17,7 @@
 #define RM_SCHEDULING 1 		// Rate monotonic
 #define EDF_SCHEDULING 2 		// Earliest deadline first
 #define MUF_SCHEDULING 3		// Maximum urgency first
-#define SCHEDULING_ALGORITHM EDF_SCHEDULING
+#define SCHEDULING_ALGORITHM RM_SCHEDULING
 
 #define MAX_NUM_TASKS 10
 

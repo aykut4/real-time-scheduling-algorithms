@@ -40,17 +40,6 @@ void main_app( void )
 	SchedulerTaskCreate(dispatcherTask, "Dispatcher #2", configMINIMAL_STACK_SIZE, NULL, 2, &xHandle2, pdMS_TO_TICKS(0), pdMS_TO_TICKS(3000), executionTime2);
     SchedulerTaskCreate(dispatcherTask, "Dispatcher #3", configMINIMAL_STACK_SIZE, NULL, 1, &xHandle3, pdMS_TO_TICKS(0), pdMS_TO_TICKS(3000), executionTime3);
 	SchedulerTaskCreate(dispatcherTask, "Dispatcher #4", configMINIMAL_STACK_SIZE, NULL, 2, &xHandle4, pdMS_TO_TICKS(0), pdMS_TO_TICKS(4000), executionTime4);
-    
-
-    /*static TickType_t executionTime1 = pdMS_TO_TICKS(700);
-    static TickType_t executionTime2 = pdMS_TO_TICKS(1000);
-    static TickType_t executionTime3 = pdMS_TO_TICKS(1000);
-    static TickType_t executionTime4 = pdMS_TO_TICKS(500);
-    SchedulerTaskCreate(dispatcherTask1, "Dispatcher #1", configMINIMAL_STACK_SIZE + 5000, &executionTime1, 1, &xHandle1, pdMS_TO_TICKS(0), pdMS_TO_TICKS(7000), pdMS_TO_TICKS(7000));
-	SchedulerTaskCreate(dispatcherTask1, "Dispatcher #2", configMINIMAL_STACK_SIZE + 5000, &executionTime2, 2, &xHandle2, pdMS_TO_TICKS(0), pdMS_TO_TICKS(10000), pdMS_TO_TICKS(10000));
-    SchedulerTaskCreate(dispatcherTask1, "Dispatcher #3", configMINIMAL_STACK_SIZE + 5000, &executionTime3, 1, &xHandle3, pdMS_TO_TICKS(0), pdMS_TO_TICKS(2500), pdMS_TO_TICKS(2500));
-	SchedulerTaskCreate(dispatcherTask1, "Dispatcher #4", configMINIMAL_STACK_SIZE + 5000, &executionTime4, 2, &xHandle4, pdMS_TO_TICKS(0), pdMS_TO_TICKS(5000), pdMS_TO_TICKS(5000));
-    */
     SchedulerStart();
 }
 
