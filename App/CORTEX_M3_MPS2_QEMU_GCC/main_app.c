@@ -6,127 +6,68 @@
 #include <list.h>
 #include "scheduler.h"
 
-static void prvQueueReceiveTask( void *pvParameters );
-static void prvQueueSendTask( void *pvParameters );
-
-
-
-#define mainQUEUE_RECEIVE_TASK_PRIORITY     ( tskIDLE_PRIORITY + 2 )
-#define mainQUEUE_SEND_TASK_PRIORITY        ( tskIDLE_PRIORITY + 1 )
-#define mainQUEUE_LENGTH                    ( 10 )
-#define mainQUEUE_SEND_FREQUENCY_MS         ( 1000 / portTICK_PERIOD_MS )
-
+void vApplicationTickHook( void );
+void vApplicationIdleHook( void );
 
 TaskHandle_t xHandle1 = NULL;
 TaskHandle_t xHandle2 = NULL;
 TaskHandle_t xHandle3 = NULL;
 TaskHandle_t xHandle4 = NULL;
 
-
-static void testFunc1( void *pvParameters ){
-char* c = pvParameters;
-	printf("Test1 %c\r\n", *c);
-
-int i, a;
-	for( i = 0; i < 1000000; i++ )
-	{
-		a = 1 + i*i*i*i;
-	}
-}
-
-static void testFunc2( void *pvParameters )
+static void dispatcherTask(void *parameters)
 {
-char* c = pvParameters;
-int i;
-	for( i=0; i < 1000000; i++ )
-	{
-	int a = i * i * i * i;
-	}
-	printf("TestA2 %c %d\r\n", *c, xTaskGetTickCount());
-}
-
-static void testFunc3( void *pvParameters ){
-	char* c = pvParameters;
-	printf("Test3 %c\r\n", *c);
-	int i, a;
-	for(i = 0; i < 1000000; i++ )
-	{
-		a = 1 + a * a * i;
-	}
-}
-
-static void testFunc4(void *pvParameters)
-{
-	char* c = pvParameters;
-	int i, a;
-	for(i = 0; i < 2000000; i++)
-	{
-		a = 1 + i * i * i * i;
-	}
-	printf("Test4 %c\r\n", *c);
+    TickType_t *executionTime = (TickType_t*)parameters;
+    TickType_t startTime = xTaskGetTickCount();
+    printf("dispatching item...\n");
+    for( ;; )
+    {
+        //printf("anaisik\n");
+        executionTime[0] = xTaskGetTickCount() - startTime;
+        if (executionTime[0] >= executionTime[1]) break;
+    }
 }
 
 void main_app( void )
 {
 
-    char c1 = 'a';
-	char c2 = 'b';
-	char c3 = 'c';
-	char c4 = 'e';
+    SchedulerInit();
+    
+    static TickType_t executionTime1 = pdMS_TO_TICKS(1000);
+    static TickType_t executionTime2 = pdMS_TO_TICKS(500);
+    static TickType_t executionTime3 = pdMS_TO_TICKS(1000);
+    static TickType_t executionTime4 = pdMS_TO_TICKS(800);
+    SchedulerTaskCreate(dispatcherTask, "Dispatcher #1", configMINIMAL_STACK_SIZE, NULL, 1, &xHandle1, pdMS_TO_TICKS(0), pdMS_TO_TICKS(5000), executionTime1);
+	SchedulerTaskCreate(dispatcherTask, "Dispatcher #2", configMINIMAL_STACK_SIZE, NULL, 2, &xHandle2, pdMS_TO_TICKS(0), pdMS_TO_TICKS(3000), executionTime2);
+    SchedulerTaskCreate(dispatcherTask, "Dispatcher #3", configMINIMAL_STACK_SIZE, NULL, 1, &xHandle3, pdMS_TO_TICKS(0), pdMS_TO_TICKS(3000), executionTime3);
+	SchedulerTaskCreate(dispatcherTask, "Dispatcher #4", configMINIMAL_STACK_SIZE, NULL, 2, &xHandle4, pdMS_TO_TICKS(0), pdMS_TO_TICKS(4000), executionTime4);
+    
 
+    /*static TickType_t executionTime1 = pdMS_TO_TICKS(700);
+    static TickType_t executionTime2 = pdMS_TO_TICKS(1000);
+    static TickType_t executionTime3 = pdMS_TO_TICKS(1000);
+    static TickType_t executionTime4 = pdMS_TO_TICKS(500);
+    SchedulerTaskCreate(dispatcherTask1, "Dispatcher #1", configMINIMAL_STACK_SIZE + 5000, &executionTime1, 1, &xHandle1, pdMS_TO_TICKS(0), pdMS_TO_TICKS(7000), pdMS_TO_TICKS(7000));
+	SchedulerTaskCreate(dispatcherTask1, "Dispatcher #2", configMINIMAL_STACK_SIZE + 5000, &executionTime2, 2, &xHandle2, pdMS_TO_TICKS(0), pdMS_TO_TICKS(10000), pdMS_TO_TICKS(10000));
+    SchedulerTaskCreate(dispatcherTask1, "Dispatcher #3", configMINIMAL_STACK_SIZE + 5000, &executionTime3, 1, &xHandle3, pdMS_TO_TICKS(0), pdMS_TO_TICKS(2500), pdMS_TO_TICKS(2500));
+	SchedulerTaskCreate(dispatcherTask1, "Dispatcher #4", configMINIMAL_STACK_SIZE + 5000, &executionTime4, 2, &xHandle4, pdMS_TO_TICKS(0), pdMS_TO_TICKS(5000), pdMS_TO_TICKS(5000));
+    */
+    SchedulerStart();
+}
 
-	vSchedulerInit();
-
-	vSchedulerPeriodicTaskCreate(testFunc1, "t1", configMINIMAL_STACK_SIZE, &c1, 1, &xHandle1, pdMS_TO_TICKS(0), pdMS_TO_TICKS(200), pdMS_TO_TICKS(100), pdMS_TO_TICKS(500));
-	vSchedulerPeriodicTaskCreate(testFunc2, "t2", configMINIMAL_STACK_SIZE, &c2, 2, &xHandle2, pdMS_TO_TICKS(50), pdMS_TO_TICKS(100), pdMS_TO_TICKS(100), pdMS_TO_TICKS(100));
-	vSchedulerPeriodicTaskCreate(testFunc3, "t3", configMINIMAL_STACK_SIZE, &c3, 3, &xHandle3, pdMS_TO_TICKS(0), pdMS_TO_TICKS(300), pdMS_TO_TICKS(100), pdMS_TO_TICKS(200));
-	vSchedulerPeriodicTaskCreate(testFunc4, "t4", configMINIMAL_STACK_SIZE, &c4, 4, &xHandle4, pdMS_TO_TICKS(0), pdMS_TO_TICKS(400), pdMS_TO_TICKS(100), pdMS_TO_TICKS(100));
-
-    vSchedulerStart();
-
-    /*xTaskCreate( prvQueueSendTask,
-                "TX",
-                configMINIMAL_STACK_SIZE,
-                NULL,
-                mainQUEUE_SEND_TASK_PRIORITY,
-                NULL );
-        
-    xTaskCreate( prvQueueReceiveTask,
-                "RX",
-                configMINIMAL_STACK_SIZE,
-                NULL,
-                mainQUEUE_SEND_TASK_PRIORITY,
-                NULL );
-    vTaskStartScheduler();*/
+void vApplicationTickHook( void )
+{
 
 }
 
-static void prvQueueSendTask( void *pvParameters )
+void vApplicationIdleHook( void )
 {
+    volatile size_t xFreeHeapSpace;
 
-    ( void ) pvParameters;
-
-    TickType_t xNextWakeTime;
-    xNextWakeTime = xTaskGetTickCount();
-
-    for( ;; )
-    {
-        vTaskDelayUntil( &xNextWakeTime, mainQUEUE_SEND_FREQUENCY_MS );
-        printf("%s\n","blinking1");
-    }
-}
-
-
-static void prvQueueReceiveTask( void *pvParameters )
-{
-    ( void ) pvParameters;
-
-    TickType_t xNextWakeTime;
-    xNextWakeTime = xTaskGetTickCount();
-
-    for( ;; )
-    {
-        printf("%s\n","blinking2");
-        vTaskDelayUntil( &xNextWakeTime, mainQUEUE_SEND_FREQUENCY_MS );
-    }
+    /* This is just a trivial example of an idle hook.  It is called on each
+    cycle of the idle task.  It must *NOT* attempt to block.  In this case the
+    idle task just queries the amount of FreeRTOS heap that remains.  See the
+    memory management section on the https://www.FreeRTOS.org web site for memory
+    management options.  If there is a lot of heap memory free then the
+    configTOTAL_HEAP_SIZE value in FreeRTOSConfig.h can be reduced to free up
+    RAM. */
 }

@@ -13,10 +13,9 @@ $ git clone https://github.com/FreeRTOS/FreeRTOS.git --recurse-submodules --dept
 ```
 The previous command should create a directory named **FreeRTOS**
 
-## Blinky Led
-### How to build blinky led
-Navigate with the command line to FreeRTOS/Led/CORTEX\_M3\_MPS2\_QEMU\_GCC
-For a release build run:
+### How to build the application
+Navigate with the command line to FreeRTOS/App/CORTEX\_M3\_MPS2\_QEMU\_GCC
+For build run:
 
 ```
 $ export PATH=<pathtoarmtoolchain>:$PATH
@@ -29,14 +28,28 @@ For a versions with debugging symbols and no optimizations **-O0**, run:
 $ make DEBUG=1
 ```
 
-### How to run the blinky led
+### How to run the app
 run:
 ```
 $ make run
 ```
-### Blinky Led Expectations
-after running the blinky led you shoud see on the screen the word blinking
-printed continuously
+### Application Expectations
+after running the app you should be seeing the logs with respect to the scheduling of the task set that's executed
+
+### Users Manual
+In order to use the scheduler the very first thing to do is to set the constant
+SCHEDULING_ALGORITHM in scheduler.h
+
+After you can write your own task function or use the already existing one in
+main_app.c (dispatchTask)
+
+Then inside the main_app function in main_app.c, call these functions in an order:
+    1) SchedulerInit();
+    2) SchedulerTaskCreate(/*with your own set of parameters and task func*/);
+       repeat this function call as many times as the tasks you would like to have.
+    3) SchedulerStart();
+
+Now once you run the command make run, in the project directory from the terminal, you will see the scheduler working.
 
 
 ## How to start debugging

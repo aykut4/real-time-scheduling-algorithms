@@ -749,7 +749,7 @@
 #endif
 
 #ifndef configGENERATE_RUN_TIME_STATS
-    #define configGENERATE_RUN_TIME_STATS    0
+    #define configGENERATE_RUN_TIME_STATS 0
 #endif
 
 #if ( configGENERATE_RUN_TIME_STATS == 1 )
@@ -795,7 +795,7 @@
 #endif
 
 #ifndef configUSE_TICKLESS_IDLE
-    #define configUSE_TICKLESS_IDLE    0
+    #define configUSE_TICKLESS_IDLE 0
 #endif
 
 #ifndef configPRE_SUPPRESS_TICKS_AND_SLEEP_PROCESSING

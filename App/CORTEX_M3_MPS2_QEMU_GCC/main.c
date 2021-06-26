@@ -35,8 +35,7 @@
 
 void vApplicationStackOverflowHook( TaskHandle_t pxTask, char *pcTaskName );
 void vApplicationMallocFailedHook( void );
-void vApplicationIdleHook( void );
-void vApplicationTickHook( void );
+
 void main_app( void );
 
 extern void initialise_monitor_handles(void);
@@ -73,26 +72,6 @@ void vApplicationStackOverflowHook( TaskHandle_t pxTask, char *pcTaskName )
     for( ;; ){};
 }
 /*-----------------------------------------------------------*/
-
-void vApplicationIdleHook( void )
-{
-volatile size_t xFreeHeapSpace;
-
-    /* This is just a trivial example of an idle hook.  It is called on each
-    cycle of the idle task.  It must *NOT* attempt to block.  In this case the
-    idle task just queries the amount of FreeRTOS heap that remains.  See the
-    memory management section on the https://www.FreeRTOS.org web site for memory
-    management options.  If there is a lot of heap memory free then the
-    configTOTAL_HEAP_SIZE value in FreeRTOSConfig.h can be reduced to free up
-    RAM. */
-}
-/*-----------------------------------------------------------*/
-
-void vApplicationTickHook( void )
-{
-}
-/*-----------------------------------------------------------*/
-
 void vAssertCalled( void )
 {
     volatile unsigned long looping = 0;
