@@ -61,7 +61,7 @@ Append the -s and -S switches to the previous command (qemu-system-arm)<br>
 
 run: (make sure you build the debug version)
 ```
-$ arm-none-eabi-gdb -q ./build/RTOSLed.axf
+$ arm-none-eabi-gdb -q ./build/RTOSApp.axf
 
 (gdb) target remote :1234
 (gdb) break main
