@@ -21,7 +21,6 @@ static void dispatcherTask(void *parameters)
     printf("dispatching item...\n");
     for( ;; )
     {
-        //printf("anaisik\n");
         executionTime[0] = xTaskGetTickCount() - startTime;
         if (executionTime[0] >= executionTime[1]) break;
     }
